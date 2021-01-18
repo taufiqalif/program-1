@@ -14,3 +14,9 @@
 * **Output tambah_data**
 
 ![01.png](/gambar/01.png)
+
+![02.png](/gambar/02.png)
+
+![03.png](/gambar/03.png)
+
+![04.png](/gambar/04.png)
